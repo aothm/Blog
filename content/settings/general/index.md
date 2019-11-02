@@ -1,8 +1,8 @@
 +++
 headless = true
-title = "Vorname Nachname"
-description = "mein Blog"
-footerLeft = "Powered by ❤️ and [lernblog.ch](https://www.lernblog.ch)"
+title = "Abdul Othman"
+description = "Not now"
+footerLeft = ""
 footerRight = ""
 +++
 
