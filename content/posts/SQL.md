@@ -1,7 +1,7 @@
 +++
 title = "SQL Starting "
 date = "2019-11-06"
-draft = none
+draft = false
 pinned = true
 image = "./img/m4x.jpg"
 +++
@@ -34,4 +34,3 @@ CREATE TABLE Persons (
     City        varchar(255)
 );
 ```
-git log
