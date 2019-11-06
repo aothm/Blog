@@ -3,12 +3,12 @@ title = "SQL Starting "
 date = "2019-11-06"
 draft = false
 pinned = true
-image = "./img/m4x.jpg"
+image = "/img/m4x.jpg"
 +++
 # SQL Create Table statement
 Syntax
 
-```js
+```sql
 CREATE TABLE table_name (
     column1 datatype,
     column2 datatype,
