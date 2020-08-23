@@ -5,7 +5,9 @@ draft = false
 pinned = true
 image = "/img/m4x.jpg"
 +++
-# SQL Create Table statement
+
+## SQL Create Table statement
+
 Syntax
 
 ```sql
