@@ -6,7 +6,7 @@ image = ""
 +++
 ![](/img/default-author.png)
 
-## Vorname Nachname
+## Abdul Othman
 
 info@lernblog.ch
 
